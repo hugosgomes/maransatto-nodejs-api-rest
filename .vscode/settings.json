@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "ecommerce",
+            "dialect": "MariaDB",
+            "name": "Mariadb",
+            "password": "root",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
